@@ -1,0 +1,414 @@
+{	
+  "channel_name": [	
+    "HBO",
+    "Celestial Movies",
+    "KIX",
+    "THRILL",
+    "Cinema World",
+    "Zee Bioskop",
+    "24h Holiwood Movie 1",
+    "24h Holiwood Movie 2",
+    "24h Holiwood Movie 3",
+    "24h Holiwood Movie 4",
+    "24h Holiwood Movie 5",
+    "And Prive HD",
+    "And Flix",
+    "HBO 2",
+    "FOX Premium Cinema",
+    "FOX Premium Comedy",
+    "SONY Movie Channel",
+    "Kids Channel",
+    "Arirang",
+    "CBS TV",
+    "SBS IN HD",
+    "KBS 2",
+    "K DRAMA",
+    "K+",
+    "RCTI",
+    "Indosiar",
+    "Indosiar 2",
+    "Indosiar 3",
+    "Indosiar 4",
+    "Trans TV",
+    "Trans TV 2",
+    "ANTV",
+    "TV One",
+    "TV One 2",
+    "Metro TV",
+    "Kompas TV",
+    "SCTV",
+    "SCTV 2",
+    "Trans7",
+    "Trans7 2",
+    "CNN Indonesia",
+    "Net TV",
+    "Net TV 2",
+    "GTV",
+    "MNCTV",
+    "RTV",
+    "TVRI",
+    "Inspira TV",
+    "BBS TV",
+    "Rodja TV",
+    "DAI TV",
+    "Elshinta TV",
+    "Makkah 1",
+    "Madina TV",
+    "Baran",
+    "Iran Kala",
+    "IRIB 1",
+    "IRIB 2",
+    "IRIB 3",
+    "IRIB 5",
+    "IFilm",
+    "Shoma",
+    "Namayesh",
+    "Omid",
+    "Jamejam",
+    "Sahand",
+    "Fars",
+    "Khozestan",
+    "Khorazan Sarafi",
+    "Nasim",
+    "Pooya",
+    "BNC",
+    "TV1 Malaysia",
+    "TV2 Malaysia",
+    "TV3 Malaysia",
+    "TV7 Malaysia",
+    "TV8 Malaysia",
+    "TV9 Malaysia",
+    "Astro Arena",
+    "Atro Awani",
+    "Okey Malaysia",
+    "TV i Malaysia",
+    "Parlimen Malaysia",
+    "1News Malaysia",
+    "Okto TV",
+    "Channel News Asia",
+    "Suria",
+    "VASANTHAM",
+    "MUSIC CHOICE",
+    "HIT TV",
+    "ABU DHABI",
+    "DUBAI ONE",
+    "Euro News",
+    "Bloomberg TV",
+    "NHK World",
+    "Aljazeera",
+    "France 24",
+    "ABC News",
+    "NTV News24 (JPN)",
+    "AR News 1",
+    "AR News 2",
+    "Animal Planet",
+    "Nat Geo Wild",
+    "Davinci Learning",
+    "CTGN Documentary",
+    "RT",
+    "TV Africa (Ghana)",
+    "You Channel",
+    "FAMILY",
+    "Channel 2",
+    "Channel 3",
+    "Channel 5",
+    "Channel 7",
+    "Channel 8 THAI 27",
+    "Voice TV 21",
+    "Allgau TV",
+    "Blizz TV",
+    "Franken Fernsehen",
+    "INTV",
+    "Munchen TV",
+    "Noa 4 Norderstedt",
+    "Noa 4 Hamburg",
+    "Rheinmain TV",
+    "tagesschau24",
+    "BT Sports",
+    "AD Sports",
+    "AD Sports 2",
+    "Rusia Extreme",
+    "RAI Sports",
+    "Kuwait One",
+    "Dubai Sports",
+    "Varzesh",
+    "IRadio Jakarta",
+    "Gen FM",
+    "Prambors FM"
+  ],
+  "genre": [
+    "Movies | Medium | Sub Indo",
+    "Movies | Fast | Sub Indo",
+    "Movies | Fast | Sub Indo",
+    "Movies | Fast | Sub Indo",
+    "Movies | Medium | Sub Indo",
+    "Movies | Medium | Sub Indo",
+    "Movies | Fast | Sub Eng/Japan",
+    "Movies | Fast | Sub Eng/Japan",
+    "Movies | Fast | Sub Eng/Japan",
+    "Movies | Fast | Sub Eng/Japan",
+    "Movies | Fast | Sub Eng/Japan",
+    "Movies | Fast | Sub Eng",
+    "Movies | Medium | No Sub",
+    "Movies | Medium | No Sub",   
+    "Movies | Medium | No Sub",
+    "Movies | Medium | No Sub",
+    "Kids",
+    "KPop & Japan | Medium | Sub Eng",
+    "KPop & Japan | Medium | Sub Eng",
+    "KPop & Japan | Medium | Sub Eng",
+    "KPop & Japan | Fast | Sub Eng",
+    "KPop & Japan | Fast | Sub Eng",
+    "KPop & Japan | Fast | Sub Indo",
+    "KPop & Japan | Fast | Sub Indo",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Islami",
+    "TV Islami",
+    "TV Islami",
+    "TV Islami",
+    "TV Islami",
+    "TV Iran",
+    "TV Iran",
+    "TV Iran",
+    "TV Iran",
+    "TV Iran",
+    "TV Iran",
+    "TV Iran",
+    "TV Iran",
+    "TV Iran",
+    "TV Iran",
+    "TV Iran",
+    "TV Iran",
+    "TV Iran",
+    "TV Iran",
+    "TV Iran",
+    "TV Iran Kids",
+    "TV Iran Kids",
+    "TV Malaysia",
+    "TV Malaysia",
+    "TV Malaysia",
+    "TV Malaysia",
+    "TV Malaysia",
+    "TV Malaysia",
+    "TV Malaysia",
+    "TV Malaysia",
+    "TV Malaysia",
+    "TV Malaysia",
+    "TV Malaysia",
+    "TV Malaysia",
+    "TV Malaysia",
+    "TV SG",
+    "TV SG",
+    "TV SG",
+    "TV SG",
+    "Music",
+    "Music",
+    "ARAB",
+    "ARAB",
+    "24/7 News",
+    "24/7 News",
+    "24/7 News",
+    "24/7 News",
+    "24/7 News",
+    "24/7 News",
+    "24/7 News Japan",
+    "24/7 News (AR)",
+    "24/7 News (AR)",
+    "Education",
+    "Education",
+    "Education",
+    "Education",
+    "Education",
+    "TV Africa (Ghana)",
+    "TV Thailand",
+    "TV Thailand",
+    "TV Thailand",
+    "TV Thailand",
+    "TV Thailand",
+    "TV Thailand",
+    "TV Thailand",
+    "TV Thailand",
+    "Germany",
+    "Germany",
+    "Germany",
+    "Germany",
+    "Germany",
+    "Gernany",
+    "Gernany",
+    "Germany",
+    "Germany",
+    "Sports",
+    "Sports",
+    "Sports",
+    "Sports",
+    "Sports",
+    "Sports",
+    "Sports",
+    "Sports",
+    "Indo Radio",
+    "Indo Radio",
+    "Indo Radio"
+  ],
+  "url": [	
+    //"https://defjwd5stvrhj.cloudfront.net/out/v1/54a201076b1e46ee83027a72ef637252/index_3.m3u8",
+    "http://210.210.155.35/uq2663/h/h231/index2.m3u8",//HBO
+    "http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8", //Celestial
+    "http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8", //Kix
+    "http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8", //Thrill
+    "http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8", //Cimema World
+    "http://210.210.155.35/qwr9ew/s/s32/index1.m3u8",//Zee Bioskop
+    "http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8",
+    "http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8",
+    "http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8",
+    "http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8",
+    "http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8",
+    "http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8", //&Prive HD
+    "http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8", //&Flix
+    "http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8",  //HBO2
+    "http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8", //Fox Cinema
+    "http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8", //Fox Comedy
+    "http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8", //Sony Movie Channel
+    "http://210.210.155.35/qwr9ew/s/s30/index2.m3u8",
+    "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1328000_sleng.m3u8", //Arirang
+    "http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8", //CBS
+    "http://210.210.155.35/session/260caf3e-7d82-11e8-94b1-b82a72d63267/uq2663/h/h28/index.m3u8", //SBS
+    "http://123.108.164.71/etv2/phd847/playlist.m3u8", //SBS
+    "http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8?fluxustv.m3u8", //K-Drama  
+    "http://210.210.155.35/uq2663/h/h08/index.m3u8", //K+
+    "http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com",//"http://id8.indostreamingtv.com/live/tv6/index.m3u8",//"https://edge.okezone.com/live/rctioke.m3u8",//"http://tv.rumahstreaming.stream/0f5822af544d5be1rcti/lives/chunks.m3u8",//"https://edge.okezone.com/live/rctioke.m3u8",//
+    "http://210.210.155.35/qwr9ew/s/s04/index2.m3u8", //indosiar
+    "http://rr2.dens.tv/s/s04/index1.m3u8",//"http://202.80.222.171/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com", //Indosiar 2
+    "http://202.80.222.169:80/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com",//Indosiar 3
+    "http://id1.indostreamingtv.com/live/tv11/index.m3u8",
+    "http://210.210.155.35:80/session/4a245e3a-b1f3-11e8-86db-c81f66f89318/qwr9ew/s/s05/index2.m3u8",//Trans TV
+    "http://id2.indostreamingtv.com/live/tv33/index.m3u8",//"http://202.80.222.171/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com",
+    "http://210.210.155.35/qwr9ew/s/s07/index2.m3u8", //ANTV
+    "https://stream-01.sg1.dailymotion.com/04/dm/3/x619221/live-2.m3u8", //TV ONE
+    "https://stream-04.sg1.dailymotion.com/sec(-u738Cqp_Jhg5FkjWHwqZxuRNT6EuXoqhkNKhCpqEqs)/dm/3/x619221/live-2.m3u8",//"http://202.80.222.171/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com",//TVone2
+    "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8", //Metro
+    "http://rr2.dens.tv/s/s09/index1.m3u8",  //KOMPAS
+    "http://210.210.155.35/qwr9ew/s/s03/index2.m3u8", //SCTV
+    "http://rr2.dens.tv/s/s03/index1.m3u8",//"http://202.80.222.171/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com", //SCTV 2
+    "http://202.80.222.171/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com",//"http://210.210.155.35/qwr9ew/s/s06/index2.m3u8",// Trans 7"https://tv.rumahstreaming.stream/47b7cb0281e09253tran7/lives/playlist.m3u8",
+    "http://rr2.dens.tv/s/s06/index1.m3u8",//Trans 7
+    "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8", //CNN Indo
+    "http://210.210.155.35/qwr9ew/s/s08/index2.m3u8", //NET HD
+    "http://rr2.dens.tv/s/s08/index1.m3u8",//Net SD
+    "http://202.80.222.174:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com", //GTV
+    "http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com", //MNCTV
+    "http://210.210.155.35/qwr9ew/s/s12/index2.m3u8", //RTV
+    "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRiau)/index.m3u8", //TVRI
+    "http://stream1.ninmedia.tv/live/xmedia-inspiratv.stream_nin/chunklist_w1076676178.m3u8", // Inspira
+    "http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8", // BBS\
+    "http://210.210.155.35/qwr9ew/s/s14/index2.m3u8", //Rodja
+    "http://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8",//DAI
+    "http://210.210.155.35/qwr9ew/s/s10/index2.m3u8",
+    "http://rr2.dens.tv/s/s28/index.m3u8", //Makkah
+    "http://rr2.dens.tv/s/s27/index.m3u8", //Madina
+    "http://cdn1.live.irib.ir:1935/channel-live/smil:baran/chunklist_b307200_slFa.m3u8",
+    "http://cdn1.live.irib.ir:1935/channel-live/smil:irankala/chunklist_b307200_slFa.m3u8",
+    "http://cdn1.live.irib.ir:1935/channel-live/smil:tv1/chunklist_b307200_slFa.m3u8",
+    "http://cdn1.live.irib.ir:1935/channel-live/smil:tv2/chunklist_b1179648_slfa.m3u8",
+    "http://cdn1.live.irib.ir:1935/channel-live/tv3-1mb.stream/playlist.m3u8",
+    "http://cdn1.live.irib.ir:1935/channel-live/smil:tv5/chunklist_b307200_slFa.m3u8",
+    "http://cdn1.live.irib.ir:1935/channel-live/smil:ifilmfa/chunklist_b307200_slFa.m3u8",
+    "http://cdn1.live.irib.ir:1935/channel-live/smil:shoma/chunklist_b307200_slFa.m3u8",
+    "http://cdn1.live.irib.ir:1935/channel-live/smil:namayesh/chunklist_b307200_slFa.m3u8",
+    "http://cdn1.live.irib.ir:1935/channel-live/smil:omid/chunklist_b307200_slFa.m3u8",
+    "http://cdn1.live.irib.ir:1935/channel-live/smil:jjtvn1/chunklist_b307200_slFa.m3u8",
+    "http://cdn1.live.irib.ir:1935/channel-live/smil:sahand/chunklist_b307200_slFa.m3u8",
+    "http://cdn1.live.irib.ir:1935/channel-live/smil:fars/chunklist_b307200_slFa.m3u8",
+    "http://cdn1.live.irib.ir:1935/channel-live/smil:khoozestan/chunklist_b307200_slFa.m3u8",
+    "http://cdn1.live.irib.ir:1935/channel-live/smil:khorasanrazavi/chunklist_b307200_slFa.m3u8",
+    "http://cdn1.live.irib.ir:1935/channel-live/smil:nasim/chunklist_b307200_slFa.m3u8",
+    "http://cdn1.live.irib.ir:1935/channel-live/smil:pouya/chunklist_b307200_slFa.m3u8",
+    "http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/chunklist_w433971513_b650000_sleng.m3u8",//BNC
+    "https://rtm-live-stream1.glueapi.io/smil:rtmch001.smil/chunklist_b329000_sleng.m3u8", //"TV 1"
+    "https://rtm-live-stream1.glueapi.io/smil:rtmch002/playlist.m3u8", //"TV 2"
+    "http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8", //"TV 3"
+    "http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live.m3u8", //"TV7"
+    "http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8", //TV8
+    "http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8", //TV9
+    "http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8", //Arena
+    "http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8", //Awani
+    "https://rtm-live-stream1.glueapi.io/smil:rtmch003.smil/playlist.m3u8",
+    "https://rtm-live-stream1.glueapi.io/smil:rtmch004/playlist.m3u8",
+    "https://rtm-live-stream1.glueapi.io/smil:rtmch007/playlist.m3u8",
+    "https://rtm-live-stream1.glueapi.io/smil:rtmch006/playlist.m3u8",
+    "http://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8", //Okto
+    "http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8", //Channel Nesw
+    "http://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index.m3u8",//Suria
+    "http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8",//Vasantham
+    "http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8", //Music
+    "http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8",//Hit TV
+    "http://www.elahmad.com/tv/m3u8/adtv.m3u8", //ABU DHABI
+    "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8", //DUBAI
+    "http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8", //
+    "http://210.210.155.35/qwr9ew/s/s15/index2.m3u8",//Euro News
+    "http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index_1180.m3u8",//Bloomberg
+    "http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8",//
+    "http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8",//
+    "http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8",//
+    "http://www.news24.jp/livestream/index.m3u8",//NTV
+    "http://210.210.155.35/qwr9ew/s/s16/index2.m3u8",//AR News
+    "http://210.210.155.35/qwr9ew/s/s17/index2.m3u8",//AR News 2
+    "http://161.0.157.6/PLTV/88888888/224/3221226253/index.m3u8",//
+    "http://51.15.5.246:8010/Doc/Natgeo/index.m3u8?token=MTI1LjE2MC4xMTQuMTg1LXRva2VuMS0xNTM0MTA2Mjc1",
+    "http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8", //Davinci
+    "http://210.210.155.35/qwr9ew/s/s20/index2.m3u8",//CTGN
+    "http://210.210.155.35/qwr9ew/s/s23/index2.m3u8",//RT
+    "http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8", //africa
+    "http://stream.rs.co.th/you-hi/index.m3u8", //You TV
+    "http://main-a.for-our.info:8081/tv2/ch1.m3u8", //Family
+    "http://stream.rs.co.th/ch2-hi/index.m3u8", //Channel 2
+    "http://119.59.125.74/stream/totnew.php?channel_id=a4485b656d764f308c63b14a8bf62326&.m3u", //Channel 3
+    "http://119.59.125.74/stream/totnew.php?channel_id=1d92193b11fe490b8c67d0a88bee3fd6&.m3u", //Channel 5
+    "http://119.59.125.74/stream/totnew.php?channel_id=ddfa47e726444446864b14e0e819fdde&.m3u", //Channel 7
+    "http://main-a.for-our.info:8081/tv2/ch2.m3u8", //CHANNEL 8 THAI 27
+    "http://main-a.for-our.info:8081/tv2/ch6.m3u8", //Voice TV 21
+    "http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8",
+    "http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8",
+    "http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8",
+    "http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/magentamusik1_1/magentamusik1.m3u8",
+    "http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8",
+    "http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8",
+    "http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8",
+    "http://62.67.13.54:1935/rmtv/rmtv_livestream/playlist.m3u8",
+    "http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8",
+    "https://d5975ba44d174470b3c862fa87eda4cf.azureedge.net/d7502948-1d3a-460e-89ba-9564ff9d918a/d16c61f6-df23-495f-9d14-77f6ef645f71.ism/QualityLevels(550000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)",
+    "http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV",
+    "http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV",
+    "http://media2.strekalovskiy.com/rusextrimretro/tracks-v1a1/index.m3u8",
+    "https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1800/chunklist.m3u8?sd=10&rebase=on",
+    "http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8",
+    "http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8",
+    "http://cdn1.live.irib.ir:1935/channel-live/varzesh-1mb.stream/chunklist.m3u8",
+    "http://cloudstreaming.mramedia.com:8000/live",
+    "http://streaming.sim-indonesia.com:8000/genfm",
+    "http://masima.rastream.com/masima-pramborsjakarta"
+  ]	
+}
