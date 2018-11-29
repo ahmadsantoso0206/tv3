@@ -18,6 +18,7 @@
     "FOX Premium Comedy",
     "SONY Movie Channel",
     "Animax",
+    "Aniplus",
     "Arirang",
     "CBS TV",
     "SBS IN HD",
@@ -153,6 +154,7 @@
     "Movies | Medium | No Sub",   
     "Movies | Medium | No Sub",
     "Movies | Medium | No Sub",
+    "Kids",
     "Kids",
     "KPop & Japan | Medium | Sub Eng",
     "KPop & Japan | Medium | Sub Eng",
@@ -293,6 +295,7 @@
     "http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8", //Fox Comedy
     "http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8", //Sony Movie Channel
     "http://rr2.dens.tv/h/h144/index1.m3u8",
+    "http://rr2.dens.tv/h/h02/index1.m3u8",
     "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1328000_sleng.m3u8", //Arirang
     "http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8", //CBS
     "http://210.210.155.35/session/260caf3e-7d82-11e8-94b1-b82a72d63267/uq2663/h/h28/index.m3u8", //SBS
