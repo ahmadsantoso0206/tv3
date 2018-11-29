@@ -1,5 +1,6 @@
 {	
   "channel_name": [	
+    "AXN",
     "HBO",
     "Celestial Movies",
     "KIX",
@@ -141,6 +142,7 @@
   ],
   "genre": [
     "Movies | Medium | Sub Indo",
+    "Movies | Medium | Sub Indo",
     "Movies | Fast | Sub Indo",
     "Movies | Fast | Sub Indo",
     "Movies | Fast | Sub Indo",
@@ -280,6 +282,7 @@
     "Indo Radio"
   ],
   "url": [	
+   "http://rr1.dens.tv/h/h141/index.m3u8",
     //"https://defjwd5stvrhj.cloudfront.net/out/v1/54a201076b1e46ee83027a72ef637252/index_3.m3u8",
     "http://210.210.155.35/uq2663/h/h231/index2.m3u8",//HBO
     "http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8", //Celestial
