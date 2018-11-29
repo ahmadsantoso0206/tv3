@@ -8,6 +8,7 @@
     "Cinema World",
     "Hits",
     "Zee Bioskop",
+    "Lifetime",
     "24h Holiwood Movie 1",
     "24h Holiwood Movie 2",
     "24h Holiwood Movie 3",
@@ -19,6 +20,7 @@
     "FOX Premium Cinema",
     "FOX Premium Comedy",
     "SONY Movie Channel",
+    "RAI Movie",
     "Animax",
     "Aniplus",
     "Biznet Kids",
@@ -108,6 +110,7 @@
     "AR News 2",
     "Animal Planet",
     "Nat Geo Wild",
+    "National Geographic",
     "Davinci Learning",
     "CTGN Documentary",
     "RT",
@@ -150,6 +153,7 @@
     "Movies | Medium | Sub Indo",
     "Movies | Medium | Sub Indo",
     "Movies | Medium | Sub Indo",
+    "Movies | Medium | Sub Indo",
     "Movies | Fast | Sub Eng/Japan",
     "Movies | Fast | Sub Eng/Japan",
     "Movies | Fast | Sub Eng/Japan",
@@ -158,6 +162,7 @@
     "Movies | Fast | Sub Eng",
     "Movies | Medium | No Sub",
     "Movies | Medium | No Sub",   
+    "Movies | Medium | No Sub",
     "Movies | Medium | No Sub",
     "Movies | Medium | No Sub",
     "Kids",
@@ -253,6 +258,7 @@
     "Education",
     "Education",
     "Education",
+    "Education",
     "TV Africa (Ghana)",
     "TV Thailand",
     "TV Thailand",
@@ -293,6 +299,7 @@
     "http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8", //Cimema World
     "http://rr.dens.tv/h/h37/index.m3u8",
     "http://210.210.155.35/qwr9ew/s/s32/index1.m3u8",//Zee Bioskop
+    "http://rr.dens.tv/h/h235/index.m3u8",
     "http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8",
     "http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8",
     "http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8",
@@ -304,6 +311,7 @@
     "http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8", //Fox Cinema
     "http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8", //Fox Comedy
     "http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8", //Sony Movie Channel
+    "http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8",
     "http://rr1.dens.tv/h/h144/index1.m3u8",
     "http://rr1.dens.tv/h/h02/index1.m3u8",
     "http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=KtBR4kNKKiprUBcuDy5kEENEVkzkgFgMsEfSlNamPqjnP-SC3OrXMAISH4ip6xvz",
@@ -393,6 +401,7 @@
     "http://210.210.155.35/qwr9ew/s/s17/index2.m3u8",//AR News 2
     "http://161.0.157.6/PLTV/88888888/224/3221226253/index.m3u8",//
     "http://51.15.5.246:8010/Doc/Natgeo/index.m3u8?token=MTI1LjE2MC4xMTQuMTg1LXRva2VuMS0xNTM0MTA2Mjc1",
+    "http://livestream.biznetvideo.net/biznet_ngc/_definst_/stream_ngc/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=7uN8irTYbg4krqClT-fumw597nysiQLTedMw2_3HXq8XMkPGnw_lsCxqZx7OHAcc",
     "http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8", //Davinci
     "http://210.210.155.35/qwr9ew/s/s20/index2.m3u8",//CTGN
     "http://210.210.155.35/qwr9ew/s/s23/index2.m3u8",//RT
