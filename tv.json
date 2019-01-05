@@ -330,7 +330,7 @@
     "http://210.210.155.35:80/session/4a245e3a-b1f3-11e8-86db-c81f66f89318/qwr9ew/s/s05/index2.m3u8",//Trans TV
     "http://id2.indostreamingtv.com/live/tv33/index.m3u8",//"http://202.80.222.171/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com",
     "http://210.210.155.35/qwr9ew/s/s07/index2.m3u8", //ANTV
-    "https://stream-01.sg1.dailymotion.com/04/dm/3/x619221/live-2.m3u8", //TV ONE
+    "http://rr2.dens.tv/s/s02/index2.m3u8", //TV ONE
     "https://stream-04.sg1.dailymotion.com/sec(-u738Cqp_Jhg5FkjWHwqZxuRNT6EuXoqhkNKhCpqEqs)/dm/3/x619221/live-2.m3u8",//"http://202.80.222.171/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com",//TVone2
     "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8", //Metro
     "http://rr2.dens.tv/s/s09/index1.m3u8",  //KOMPAS
