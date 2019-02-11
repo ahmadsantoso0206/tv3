@@ -2,7 +2,7 @@
   "channel_name": [	
     "Less ads, Free 237 Channel",
     "AXN",
-    "HBO",
+    "HBO (Update)",
     "Celestial Movies",
     "KIX",
     "THRILL",
@@ -10,6 +10,7 @@
     "Hits",
     "Zee Bioskop",
     "Lifetime",
+    "HBO (sd)",
     "24h Holiwood Movie 1",
     "24h Holiwood Movie 2",
     "24h Holiwood Movie 3",
@@ -18,6 +19,8 @@
     "And Prive HD",
     "And Flix",
     "HBO 2",
+    "HBO 3",
+    "Cinemax 2",
     "FOX Premium Cinema",
     "FOX Premium Comedy",
     "SONY Movie Channel",
@@ -26,6 +29,7 @@
     "Aniplus",
     "Biznet Kids",
     "Disney Jr",
+    "Miao MI",
     "Arirang",
     "CBS TV",
     "SBS IN HD",
@@ -112,6 +116,8 @@
     "Animal Planet",
     "Nat Geo Wild",
     "National Geographic",
+    "NatGeo (Sub CN)",
+    "Discovery (Sub CN)",
     "Davinci Learning",
     "CTGN Documentary",
     "RT",
@@ -161,12 +167,16 @@
     "Movies | Fast | Sub Eng/Japan",
     "Movies | Fast | Sub Eng/Japan",
     "Movies | Fast | Sub Eng/Japan",
+    "Movies | Fast | Sub Eng/Japan",
     "Movies | Fast | Sub Eng",
     "Movies | Medium | No Sub",
+    "Movies | Medium | No Sub",   
+    "Movies | Medium | No Sub",   
     "Movies | Medium | No Sub",   
     "Movies | Medium | No Sub",
     "Movies | Medium | No Sub",
     "Movies | Medium | No Sub",
+    "Kids",
     "Kids",
     "Kids",
     "Kids",
@@ -261,6 +271,8 @@
     "Education",
     "Education",
     "Education",
+    "Education",
+    "Education",
     "TV Africa (Ghana)",
     "TV Thailand",
     "TV Thailand",
@@ -293,9 +305,9 @@
   ],
   "url": [
     "https://www.m3udaily.blogspot.com",
-   "http://rr1.dens.tv/h/h141/index.m3u8",
+    "http://45.126.83.51/uq2663/h/h09/01.m3u8",
     //"https://defjwd5stvrhj.cloudfront.net/out/v1/54a201076b1e46ee83027a72ef637252/index_3.m3u8",
-    "http://210.210.155.35/uq2663/h/h231/index2.m3u8",//HBO
+    "http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8",//HBO
     "http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8", //Celestial
     "http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8", //Kix
     "http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8", //Thrill
@@ -303,6 +315,7 @@
     "http://rr.dens.tv/h/h37/index.m3u8",
     "http://210.210.155.35/qwr9ew/s/s32/index1.m3u8",//Zee Bioskop
     "http://rr.dens.tv/h/h235/index.m3u8",
+    "http://218.202.220.2:5000/nn_live.m3u8?id=HBO",
     "http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8",
     "http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8",
     "http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8",
@@ -311,6 +324,8 @@
     "http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8", //&Prive HD
     "http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8", //&Flix
     "http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8",  //HBO2
+    "http://87.246.0.155:5286/tv_HBO_3",
+    "http://87.246.0.155:5286/tv_Cinemax_2",
     "http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8", //Fox Cinema
     "http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8", //Fox Comedy
     "http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8", //Sony Movie Channel
@@ -319,6 +334,7 @@
     "http://rr1.dens.tv/h/h02/index1.m3u8",
     "http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=KtBR4kNKKiprUBcuDy5kEENEVkzkgFgMsEfSlNamPqjnP-SC3OrXMAISH4ip6xvz",
     "http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8",
+    "https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8", //Miaomi
     "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1328000_sleng.m3u8", //Arirang
     "http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8", //CBS
     "http://210.210.155.35/session/260caf3e-7d82-11e8-94b1-b82a72d63267/uq2663/h/h28/index.m3u8", //SBS
@@ -405,6 +421,8 @@
     "http://161.0.157.6/PLTV/88888888/224/3221226253/index.m3u8",//
     "http://51.15.5.246:8010/Doc/Natgeo/index.m3u8?token=MTI1LjE2MC4xMTQuMTg1LXRva2VuMS0xNTM0MTA2Mjc1",
     "http://livestream.biznetvideo.net/biznet_ngc/_definst_/stream_ngc/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=7uN8irTYbg4krqClT-fumw597nysiQLTedMw2_3HXq8XMkPGnw_lsCxqZx7OHAcc",
+    "rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo",
+    "rtmp://58.200.131.2:1935/livetv/discovery",
     "http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8", //Davinci
     "http://210.210.155.35/qwr9ew/s/s20/index2.m3u8",//CTGN
     "http://210.210.155.35/qwr9ew/s/s23/index2.m3u8",//RT
