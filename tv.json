@@ -2,6 +2,7 @@
   "channel_name": [	
     "Less ads, Free 237 Channel",
     "AXN",
+    "BLUE ANT EXTREME",
     "HBO (Update)",
     "Celestial Movies",
     "KIX",
@@ -11,6 +12,8 @@
     "Zee Bioskop",
     "Lifetime",
     "HBO (sd)",
+    "DIVA",
+    "Entertainment",
     "24h Holiwood Movie 1",
     "24h Holiwood Movie 2",
     "24h Holiwood Movie 3",
@@ -36,6 +39,7 @@
     "KBS 2",
     "K DRAMA",
     "K+",
+    "RAJAWALI TV",
     "RCTI",
     "Indosiar",
     "Indosiar 2",
@@ -154,10 +158,13 @@
   "genre": [
     "Go to : m3udaily.blogspot.com",
     "Movies | Medium | Sub Indo",
+    "Movies | Fast | Sub Indo",
     "Movies | Medium | Sub Indo",
     "Movies | Fast | Sub Indo",
     "Movies | Fast | Sub Indo",
     "Movies | Fast | Sub Indo",
+    "Movies | Medium | Sub Indo",
+    "Movies | Medium | Sub Indo",
     "Movies | Medium | Sub Indo",
     "Movies | Medium | Sub Indo",
     "Movies | Medium | Sub Indo",
@@ -176,18 +183,19 @@
     "Movies | Medium | No Sub",
     "Movies | Medium | No Sub",
     "Movies | Medium | No Sub",
+    "Movies | Medium | No Sub",
     "Kids",
     "Kids",
     "Kids",
     "Kids",
     "Kids",
-    "KPop & Japan | Medium | Sub Eng",
     "KPop & Japan | Medium | Sub Eng",
     "KPop & Japan | Medium | Sub Eng",
     "KPop & Japan | Fast | Sub Eng",
     "KPop & Japan | Fast | Sub Eng",
     "KPop & Japan | Fast | Sub Indo",
     "KPop & Japan | Fast | Sub Indo",
+    "TV Indonesia",
     "TV Indonesia",
     "TV Indonesia",
     "TV Indonesia",
@@ -306,6 +314,7 @@
   "url": [
     "https://www.m3udaily.blogspot.com",
     "http://45.126.83.51/uq2663/h/h09/01.m3u8",
+    "http://45.126.83.51/dr9445/h/h15/01.m3u8",
     //"https://defjwd5stvrhj.cloudfront.net/out/v1/54a201076b1e46ee83027a72ef637252/index_3.m3u8",
     "http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8",//HBO
     "http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8", //Celestial
@@ -316,6 +325,8 @@
     "http://210.210.155.35/qwr9ew/s/s32/index1.m3u8",//Zee Bioskop
     "http://rr.dens.tv/h/h235/index.m3u8",
     "http://218.202.220.2:5000/nn_live.m3u8?id=HBO",
+    "http://45.126.83.51/uq2663/h/h11/index2.m3u8",//DIVA
+    "http://45.126.83.51/uq2663/h/h10/index2.m3u8",
     "http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8",
     "http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8",
     "http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8",
@@ -341,16 +352,17 @@
     "http://123.108.164.71/etv2/phd847/playlist.m3u8", //SBS
     "http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8?fluxustv.m3u8", //K-Drama  
     "http://210.210.155.35/uq2663/h/h08/index.m3u8", //K+
-    "http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com",//"http://id8.indostreamingtv.com/live/tv6/index.m3u8",//"https://edge.okezone.com/live/rctioke.m3u8",//"http://tv.rumahstreaming.stream/0f5822af544d5be1rcti/lives/chunks.m3u8",//"https://edge.okezone.com/live/rctioke.m3u8",//
+    "http://45.126.83.51/qwr9ew/s/s12/01.m3u8",// RAJAWALI
+    "http://id8.indostreamingtv.com/live/tv66/index.m3u8",//"http://id8.indostreamingtv.com/live/tv6/index.m3u8",//"https://edge.okezone.com/live/rctioke.m3u8",//"http://tv.rumahstreaming.stream/0f5822af544d5be1rcti/lives/chunks.m3u8",//"https://edge.okezone.com/live/rctioke.m3u8",//
     "http://210.210.155.35/qwr9ew/s/s04/index2.m3u8", //indosiar
     "http://rr2.dens.tv/s/s04/index1.m3u8",//"http://202.80.222.171/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com", //Indosiar 2
     "http://202.80.222.169:80/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com",//Indosiar 3
     "http://id1.indostreamingtv.com/live/tv11/index.m3u8",
     "http://210.210.155.35:80/session/4a245e3a-b1f3-11e8-86db-c81f66f89318/qwr9ew/s/s05/index2.m3u8",//Trans TV
-    "http://id2.indostreamingtv.com/live/tv33/index.m3u8",//"http://202.80.222.171/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com",
+    "http://45.126.83.51/qwr9ew/s/s05/01.m3u8",//"http://202.80.222.171/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com",
     "http://210.210.155.35/qwr9ew/s/s07/index2.m3u8", //ANTV
     "http://rr2.dens.tv/s/s02/index2.m3u8", //TV ONE
-    "https://stream-04.sg1.dailymotion.com/sec(-u738Cqp_Jhg5FkjWHwqZxuRNT6EuXoqhkNKhCpqEqs)/dm/3/x619221/live-2.m3u8",//"http://202.80.222.171/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com",//TVone2
+    "http://45.126.83.51/qwr9ew/s/s02/index2.m3u8",//TVone2
     "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8", //Metro
     "http://rr2.dens.tv/s/s09/index1.m3u8",  //KOMPAS
     "http://210.210.155.35/qwr9ew/s/s03/index2.m3u8", //SCTV
