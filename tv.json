@@ -18,14 +18,14 @@
     "24h Holiwood Movie 5",
     "And Prive HD",
     "And Flix",
-    "HBO 2",
-    "HBO 3",
-    "Cinemax 2",
+    "HBO 2 (New)",
+    "HBO 3 (New)",
+    "Cinemax 2 (New)",
     "FOX Premium Cinema",
     "FOX Premium Comedy",
     "SONY Movie Channel",
     "RAI Movie",
-    "Animax",
+    "Animax (Updated)",
     "Aniplus",
     "Biznet Kids",
     "Disney Jr",
@@ -330,7 +330,7 @@
     "http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8", //Fox Comedy
     "http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8", //Sony Movie Channel
     "http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8",
-    "http://rr1.dens.tv/h/h144/index1.m3u8",
+    "http://45.126.83.51/dr9445/h/h18/01.m3u8", //Animax
     "http://rr1.dens.tv/h/h02/index1.m3u8",
     "http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=KtBR4kNKKiprUBcuDy5kEENEVkzkgFgMsEfSlNamPqjnP-SC3OrXMAISH4ip6xvz",
     "http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8",
