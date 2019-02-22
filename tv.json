@@ -70,6 +70,11 @@
     "Rodja TV",
     "DAI TV",
     "Elshinta TV",
+    "MIX",
+    "Home & Living",
+    "Foodie",
+    "Karaoke TV",
+    "Dangdut TV",
     "Makkah 1",
     "Madina TV",
     "Baran",
@@ -199,6 +204,11 @@
     "KPop & Japan | Fast | Sub Eng",
     "KPop & Japan | Fast | Sub Indo",
     "KPop & Japan | Fast | Sub Indo",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
+    "TV Indonesia",
     "TV Indonesia",
     "TV Indonesia",
     "TV Indonesia",
@@ -387,6 +397,11 @@
     "http://210.210.155.35/qwr9ew/s/s14/index2.m3u8", //Rodja
     "http://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8",//DAI
     "http://210.210.155.35/qwr9ew/s/s10/index2.m3u8",
+    "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8",//MIX
+    "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8",//Home & Living
+    "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8",//Foodie
+    "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8",//Karaoke
+    "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8",//DAngdut
     "http://rr2.dens.tv/s/s28/index.m3u8", //Makkah
     "http://rr2.dens.tv/s/s27/index.m3u8", //Madina
     "http://cdn1.live.irib.ir:1935/channel-live/smil:baran/chunklist_b307200_slFa.m3u8",
