@@ -3,7 +3,8 @@
     //"Less ads, Free 237 Channel",
     "AXN",
     "BLUE ANT EXTREME",
-    "HBO (Update)",
+    "HBO",
+    "J'GO TV (New)",
     "Celestial Movies",
     "KIX",
     "THRILL",
@@ -21,14 +22,14 @@
     "24h Holiwood Movie 5",
     "And Prive HD",
     "And Flix",
-    "HBO 2 (New)",
-    "HBO 3 (New)",
-    "Cinemax 2 (New)",
+    "HBO 2",
+    "HBO 3",
+    "Cinemax 2",
     "FOX Premium Cinema",
     "FOX Premium Comedy",
     "SONY Movie Channel",
     "RAI Movie",
-    "Animax (Updated)",
+    "Animax",
     "Aniplus",
     "Biznet Kids",
     "Disney Jr",
@@ -159,6 +160,7 @@
   "genre": [
     //"Go to : m3udaily.blogspot.com",
     "Movies | Medium | Sub Indo",
+    "Movies | Fast | Sub Indo",
     "Movies | Fast | Sub Indo",
     "Movies | Medium | Sub Indo",
     "Movies | Fast | Sub Indo",
@@ -319,6 +321,7 @@
     "http://45.126.83.51/dr9445/h/h15/01.m3u8",
     //"https://defjwd5stvrhj.cloudfront.net/out/v1/54a201076b1e46ee83027a72ef637252/index_3.m3u8",
     "http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8",//HBO
+    "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8",
     "http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8", //Celestial
     "http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8?fluxustv.m3u8", //Kix
     "http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8", //Thrill
