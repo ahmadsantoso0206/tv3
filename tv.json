@@ -35,6 +35,16 @@
     "Disney Jr",
     "My Kids",
     "Miao MI",
+    "Boomerang",
+    "Baby First",
+    "Dunia Anak",
+    "Toon Max",
+    "Nick Toons",
+    "Nickelodeon",
+    "Dream Works",
+    "Disney Channel",
+    "Cartoon Network",
+    "Nick Jr",
     "Arirang",
     "CBS TV",
     "SBS IN HD",
@@ -192,6 +202,16 @@
     "Movies | Medium | No Sub",
     "Movies | Medium | No Sub",
     "Movies | Medium | No Sub",
+    "Kids",
+    "Kids",
+    "Kids",
+    "Kids",
+    "Kids",
+    "Kids",
+    "Kids",
+    "Kids",
+    "Kids",
+    "Kids",
     "Kids",
     "Kids",
     "Kids",
@@ -362,6 +382,16 @@
     "http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8",
     "http://210.210.155.35/x6bnqe/s/s30/S4/mnf.m3u8",
     "https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8", //Miaomi
+    "http://forsat.men:8888/bebe/220319/305",//BOOMERANG
+    "http://forsat.men:8888/bebe/220319/1204",//Baby First
+    "http://forsat.men:8888/bebe/220319/907",//DUNIA ANAK
+    "http://forsat.men:8888/bebe/220319/1116",//TOON MAX
+    "http://forsat.men:8888/bebe/220319/335", //NICK TOONS
+    "http://forsat.men:8888/bebe/220319/962", //Nickelodeon
+    "http://forsat.men:8888/bebe/220319/936", //Dream Workshttp://forsat.men:8888/bebe/220319/306
+    "http://forsat.men:8888/bebe/220319/306", //Disney Channel
+    "http://forsat.men:8888/bebe/220319/680", //Cartoon Network
+    "http://forsat.men:8888/bebe/220319/341", //Nick Jr
     "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1328000_sleng.m3u8", //Arirang
     "http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8", //CBS
     "http://210.210.155.35/session/260caf3e-7d82-11e8-94b1-b82a72d63267/uq2663/h/h28/index.m3u8", //SBS
